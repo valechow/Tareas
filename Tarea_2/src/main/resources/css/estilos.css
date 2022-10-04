@@ -1,0 +1,46 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 3 oct 2022, 17:35:52
+    Author     : valec
+*/
+a{
+                background-color: white;
+                color: pink;
+            }
+            a:hover{
+                background-color: red;
+                font-size: 22px;
+                color: white;
+            }
+            header{
+                text-align: center;
+                background-color: pink;
+                color: white
+            }
+            
+            article header{
+                text-align: center;
+                background-color: plum;
+                color: white
+            }
+            
+            figcaption {
+                background-color: palevioletred;
+                color: black
+            }
+            
+            #aviso {
+                background-color: peachpuff;
+            }
+            
+            .producto {
+                background-color: peachpuff
+            }
+            
+            .algo {
+                
+            }
+
